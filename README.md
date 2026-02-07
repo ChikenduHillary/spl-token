@@ -76,7 +76,7 @@ npx ts-node spl_metadata.ts
 
 **Minting Transaction**
 
-- **Hash**: [View on Solana Explorer](https://explorer.solana.com/tx/CYFhL5XwqTcqVnzxfkogVX2VcmX1nmtXM4CK2Wbcwwdy?cluster=devnet)
+- **Mint Address**: [View on Solana Explorer](https://explorer.solana.com/address/CYFhL5XwqTcqVnzxfkogVX2VcmX1nmtXM4CK2Wbcwwdy?cluster=devnet)
 - **Screenshot**: ![alt text](<Screenshot From 2026-02-07 05-59-39-1.png>)
 
 **Token Transfer Example**
