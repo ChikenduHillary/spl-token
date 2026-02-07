@@ -65,21 +65,7 @@ npx ts-node spl_metadata.ts
 - Test on devnet before mainnet transactions
 - Document all transaction hashes for verification
 
-## Submission Requirements
-
-Submit the GitHub repository link containing:
-
-1. **README file** (this file)
-2. **Screenshot of your token** showing:
-   - Token name and symbol
-   - Token mint address
-   - Token metadata
-
-3. **Minting transaction hash**
-   - Format: Base58-encoded transaction signature
-   - Include in README or as a separate file
-
-### Example Submission Format
+### Submission
 
 **Token Details**
 
@@ -90,12 +76,12 @@ Submit the GitHub repository link containing:
 
 **Minting Transaction**
 
-- **Hash**: CYFhL5XwqTcqVnzxfkogVX2VcmX1nmtXM4CK2Wbcwwdy
+- **Hash**: [View on Solana Explorer](https://explorer.solana.com/tx/CYFhL5XwqTcqVnzxfkogVX2VcmX1nmtXM4CK2Wbcwwdy?cluster=devnet)
 - **Screenshot**: ![alt text](<Screenshot From 2026-02-07 05-59-39-1.png>)
 
 **Token Transfer Example**
 
-- **Transfer Hash**: 5VLhhGozyqsXphBsWiDCkWQncFMxevdUV4tT264fKwncGutctRySZurJ7NoHpFDm3czQpLJoHjXYuCwgx7NTkXs8
+- **Transfer Hash**: [View on Solana Explorer](https://explorer.solana.com/tx/5VLhhGozyqsXphBsWiDCkWQncFMxevdUV4tT264fKwncGutctRySZurJ7NoHpFDm3czQpLJoHjXYuCwgx7NTkXs8?cluster=devnet)
 - **Recipient**: EF9kYRwBwavGiUuhQC9topj15cwVCCLNETb6HFMXGZhZ
 - **Amount Transferred**: 100
 
